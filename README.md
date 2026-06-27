@@ -139,7 +139,7 @@ Through this project I gained hands-on experience in:
 
 # 📌 Author
 
-**Hemanth Narava**
+**Hemanth Kumar Narava**
 
 Electronics and Communication Engineering
 
