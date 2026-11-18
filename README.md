@@ -67,6 +67,7 @@ GDSII Stream-Out
 | Hardware Description Language | Verilog HDL |
 | Logic Synthesis | Cadence Genus 20.1 |
 | Physical Design | Cadence Innovus 20.1 |
+| Technology Node | 45nm |
 | Operating System | Ubuntu Linux |
 | Version Control | Git & GitHub |
 
